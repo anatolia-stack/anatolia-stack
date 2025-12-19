@@ -91,7 +91,7 @@ that developers can rely on for years.
 **Serhan KARAKOÇ**  
 Software Developer & Product Builder  
 
-Creator of **Anadolu Stack**
+Creator of **Anatolia Stack**
 
 > “Simple systems last longer.”
 
